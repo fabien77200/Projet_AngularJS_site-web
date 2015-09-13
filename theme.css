@@ -1,0 +1,38 @@
+body{
+	background-image:url("../img/bamboo.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+	padding-bottom: 25px;
+}
+.well,.jumbotron,.navbar{
+	border-radius:0;
+	box-shadow:black 1px 1px 5px;
+	background-color:rgba(143,188,143,0.9);
+	border:black solid 1px;
+}
+.thumbnail{
+	border-radius:0;
+	border:rgb(143,188,143);
+	box-shadow:black 1px 1px 5px;	
+}
+footer .jumbotron{
+	border-radius:0;
+	box-shadow:none;
+	border:none;
+	background-color:rgba(255,255,255,1);
+	text-align:center;
+	padding:0;
+	margin:0;
+}
+
+footer {
+	position:fixed;
+	bottom:0;
+	right: 0;
+	left: 0;
+}
+
+footer p.copyright {
+	margin: 0;
+	padding: 5px;
+}

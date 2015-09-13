@@ -1,0 +1,22 @@
+.locabar{
+	width: 250px ;
+}
+
+.navbar-brand {
+	padding: 0;
+}
+
+.menu-reseaux-sociaux img {
+	width: 20px;
+}
+.menu-reseaux-sociaux img.logo {
+	width: 100px;
+}
+
+.menu-reseaux-sociaux p {
+	padding-top: 20px;
+}
+
+.menu-reseaux-sociaux p.plogo {
+	padding-top: 0;
+}
